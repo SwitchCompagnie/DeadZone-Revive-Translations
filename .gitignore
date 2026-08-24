@@ -1,0 +1,18 @@
+# Build outputs (generated from en.xml + translations_<lang>.json)
+/fr.xml
+/es.xml
+/de.xml
+/it.xml
+/pt.xml
+*.xml.gz
+!en.xml.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+*.kate-swp
+*.swp
+*~
+.DS_Store
