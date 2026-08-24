@@ -1,4 +1,4 @@
-# Dead Zone Revive — Translations
+# Dead Zone Revive - Translations
 
 Community translations for **The Last Stand: Dead Zone** (Dead Zone Revive).
 Help translate the game or fix existing translations by opening a pull request.
