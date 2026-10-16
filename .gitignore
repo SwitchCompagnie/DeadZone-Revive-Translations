@@ -16,3 +16,7 @@ __pycache__/
 *.swp
 *~
 .DS_Store
+
+# Extended game fonts (commercial typefaces: never commit)
+/build/
+*.ttf

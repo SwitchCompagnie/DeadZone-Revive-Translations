@@ -21,9 +21,11 @@ providing a good translation for every English string.
 | `de` | Deutsch    | `translations_de.json`   |
 | `it` | Italiano   | `translations_it.json`   |
 | `pt` | Português  | `translations_pt.json`   |
+| `tr` | Türkçe     | `translations_tr.json`   |
 
-Only Latin-script languages are supported for now (the in-game font covers
-Latin characters and their accents). Languages that need another script, such
+Only Latin-script languages are supported for now. The game's fonts only embed
+ASCII; see [tools/fonts/README.md](tools/fonts/README.md) for adding the accented
+letters. Languages that need another script, such
 as Cyrillic or CJK, need a matching font first and are not accepted yet.
 
 ## How it works
@@ -53,6 +55,7 @@ translations_<lang>.json   The editable translation dictionaries
 tools/build_translation.py Build a <lang>.xml.gz from a dictionary
 tools/validate_translation.py  Check placeholders, tags and length
 tools/new_language.py      Create an empty dictionary for a new language
+tools/fonts/extend_glyphs.py   Add the translations' accented letters to the game fonts
 ```
 
 Built `*.xml` / `*.xml.gz` files are generated and are not committed.
