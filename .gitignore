@@ -4,6 +4,13 @@
 /de.xml
 /it.xml
 /pt.xml
+/nl.xml
+/pl.xml
+/tr.xml
+/ru.xml
+/zh.xml
+/ja.xml
+/ko.xml
 *.xml.gz
 !en.xml.gz
 

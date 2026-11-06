@@ -22,9 +22,27 @@ providing a good translation for every English string.
 | `it` | Italiano   | `translations_it.json`   |
 | `pt` | Português  | `translations_pt.json`   |
 
-Only Latin-script languages are supported for now (the in-game font covers
-Latin characters and their accents). Languages that need another script, such
-as Cyrillic or CJK, need a matching font first and are not accepted yet.
+These languages are offered everywhere: the Flash game, the website /play page
+and the web client. The Flash font only covers Latin characters and their
+accents, so this list stays Latin-script.
+
+### Web client only
+
+| Code | Language   | File                     |
+|------|------------|--------------------------|
+| `nl` | Nederlands | `translations_nl.json`   |
+| `pl` | Polski     | `translations_pl.json`   |
+| `tr` | Türkçe     | `translations_tr.json`   |
+| `ru` | Русский    | `translations_ru.json`   |
+| `zh` | 中文       | `translations_zh.json`   |
+| `ja` | 日本語     | `translations_ja.json`   |
+| `ko` | 한국어     | `translations_ko.json`   |
+
+These are only offered by the web client, which renders text with the
+browser's fonts and so supports any script, Cyrillic and CJK included. They are
+**not** listed in `languages.xml`, so the Flash game and the website /play page
+never use them. The web client downloads `deadnet game/data/lang/<lang>.xml.gz`
+directly.
 
 ## How it works
 
@@ -94,3 +112,7 @@ to `languages.xml` and to the website language selector.
 Merged `translations_<lang>.json` files are copied into the game data
 (`deadnet game/data/lang/`), rebuilt with `build_translation.py`, and deployed.
 The website language selector and the server language route pick them up.
+
+For a web-client-only language, publish `<lang>.xml.gz` in
+`deadnet game/data/lang/` and add it to the web client language selector. Do not
+add it to `languages.xml`.
