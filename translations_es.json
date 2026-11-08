@@ -8422,5 +8422,16 @@
 "vs": "vs",
 "x %s FUEL": "x %s COMBUSTIBLE",
 "x %s LOOT ITEMS": "x %s OBJETOS DE BOTÍN",
-"you cannot start a trade while a zombie attack is imminent": "no puedes iniciar un intercambio con un ataque zombi inminente"
+"you cannot start a trade while a zombie attack is imminent": "no puedes iniciar un intercambio con un ataque zombi inminente",
+"Controls": "Controles",
+"Camera Up": "Cámara arriba",
+"Camera Down": "Cámara abajo",
+"Camera Left": "Cámara izquierda",
+"Camera Right": "Cámara derecha",
+"Hold Action / Rotate": "Mantener acción / Rotar",
+"Toggle Action Mode": "Alternar modo acción",
+"Next Survivor": "Siguiente superviviente",
+"Reload Weapon": "Recargar arma",
+"Press a key": "Pulsa una tecla",
+"Reset Keys": "Restablecer teclas"
 }

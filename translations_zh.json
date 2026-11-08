@@ -8457,5 +8457,16 @@
  "All Effects": "全部效果",
  "Fewer Effects": "较少效果",
  "Reduce in Background": "后台降低",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "在支持时自动启用硬件加速。渲染上限仅影响画面。后台模式会将渲染降至15。"
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "在支持时自动启用硬件加速。渲染上限仅影响画面。后台模式会将渲染降至15。",
+ "Controls": "控制",
+ "Camera Up": "镜头上移",
+ "Camera Down": "镜头下移",
+ "Camera Left": "镜头左移",
+ "Camera Right": "镜头右移",
+ "Hold Action / Rotate": "按住行动 / 旋转",
+ "Toggle Action Mode": "切换行动模式",
+ "Next Survivor": "下一名幸存者",
+ "Reload Weapon": "装填弹药",
+ "Press a key": "请按一个键",
+ "Reset Keys": "重置按键"
 }

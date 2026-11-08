@@ -367,6 +367,17 @@
 		<options_video><![CDATA[Video]]></options_video>
 		<options_audio><![CDATA[Audio]]></options_audio>
 		<options_flash><![CDATA[Flash Player]]></options_flash>
+		<options_controls><![CDATA[Controls]]></options_controls>
+		<options_ctrl_up><![CDATA[Camera Up]]></options_ctrl_up>
+		<options_ctrl_down><![CDATA[Camera Down]]></options_ctrl_down>
+		<options_ctrl_left><![CDATA[Camera Left]]></options_ctrl_left>
+		<options_ctrl_right><![CDATA[Camera Right]]></options_ctrl_right>
+		<options_ctrl_hold><![CDATA[Hold Action / Rotate]]></options_ctrl_hold>
+		<options_ctrl_action><![CDATA[Toggle Action Mode]]></options_ctrl_action>
+		<options_ctrl_next><![CDATA[Next Survivor]]></options_ctrl_next>
+		<options_ctrl_reload><![CDATA[Reload Weapon]]></options_ctrl_reload>
+		<options_ctrl_press><![CDATA[Press a key]]></options_ctrl_press>
+		<options_ctrl_reset><![CDATA[Reset Keys]]></options_ctrl_reset>
 		
 		<options_gen_gore><![CDATA[Gore]]></options_gen_gore>
 		<options_gen_tracers><![CDATA[Bullet Tracers]]></options_gen_tracers>

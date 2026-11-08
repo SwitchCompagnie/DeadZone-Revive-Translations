@@ -8422,5 +8422,16 @@
 "vs": "vs",
 "x %s FUEL": "x %s SPRIT",
 "x %s LOOT ITEMS": "x %s BEUTEGEGENSTÄNDE",
-"you cannot start a trade while a zombie attack is imminent": "du kannst keinen Handel starten, während ein Zombie-Angriff bevorsteht"
+"you cannot start a trade while a zombie attack is imminent": "du kannst keinen Handel starten, während ein Zombie-Angriff bevorsteht",
+"Controls": "Steuerung",
+"Camera Up": "Kamera hoch",
+"Camera Down": "Kamera runter",
+"Camera Left": "Kamera links",
+"Camera Right": "Kamera rechts",
+"Hold Action / Rotate": "Aktion halten / Drehen",
+"Toggle Action Mode": "Aktionsmodus umschalten",
+"Next Survivor": "Nächster Überlebender",
+"Reload Weapon": "Waffe nachladen",
+"Press a key": "Taste drücken",
+"Reset Keys": "Tasten zurücksetzen"
 }

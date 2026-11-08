@@ -8457,5 +8457,16 @@
  "All Effects": "Alle effecten",
  "Fewer Effects": "Minder effecten",
  "Reduce in Background": "Beperken op achtergrond",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Hardwareversnelling is automatisch als dit wordt ondersteund. De renderlimiet heeft alleen invloed op beelden. De achtergrondmodus verlaagt het renderen naar 15."
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Hardwareversnelling is automatisch als dit wordt ondersteund. De renderlimiet heeft alleen invloed op beelden. De achtergrondmodus verlaagt het renderen naar 15.",
+ "Controls": "Besturing",
+ "Camera Up": "Camera omhoog",
+ "Camera Down": "Camera omlaag",
+ "Camera Left": "Camera links",
+ "Camera Right": "Camera rechts",
+ "Hold Action / Rotate": "Actie vasthouden / Draaien",
+ "Toggle Action Mode": "Actiemodus wisselen",
+ "Next Survivor": "Volgende overlevende",
+ "Reload Weapon": "Wapen herladen",
+ "Press a key": "Druk op een toets",
+ "Reset Keys": "Toetsen resetten"
 }

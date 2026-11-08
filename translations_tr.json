@@ -8457,5 +8457,16 @@
  "All Effects": "Tüm Efektler",
  "Fewer Effects": "Daha Az Efekt",
  "Reduce in Background": "Arka Planda Azalt",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Donanım hızlandırma desteklendiğinde otomatiktir. Çizim sınırı yalnızca görselleri etkiler. Arka plan modu çizimi 15'e düşürür."
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Donanım hızlandırma desteklendiğinde otomatiktir. Çizim sınırı yalnızca görselleri etkiler. Arka plan modu çizimi 15'e düşürür.",
+ "Controls": "Kontroller",
+ "Camera Up": "Kamera yukarı",
+ "Camera Down": "Kamera aşağı",
+ "Camera Left": "Kamera sola",
+ "Camera Right": "Kamera sağa",
+ "Hold Action / Rotate": "Eylemi tut / Döndür",
+ "Toggle Action Mode": "Eylem modunu değiştir",
+ "Next Survivor": "Sonraki hayatta kalan",
+ "Reload Weapon": "Silahı doldur",
+ "Press a key": "Bir tuşa basın",
+ "Reset Keys": "Tuşları sıfırla"
 }

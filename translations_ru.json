@@ -8457,5 +8457,16 @@
  "All Effects": "Все эффекты",
  "Fewer Effects": "Меньше эффектов",
  "Reduce in Background": "Снижать в фоне",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Аппаратное ускорение включается автоматически, если поддерживается. Лимит отрисовки влияет только на графику. В фоновом режиме отрисовка снижается до 15."
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Аппаратное ускорение включается автоматически, если поддерживается. Лимит отрисовки влияет только на графику. В фоновом режиме отрисовка снижается до 15.",
+ "Controls": "Управление",
+ "Camera Up": "Камера вверх",
+ "Camera Down": "Камера вниз",
+ "Camera Left": "Камера влево",
+ "Camera Right": "Камера вправо",
+ "Hold Action / Rotate": "Удерж. действие / Поворот",
+ "Toggle Action Mode": "Режим действия вкл/выкл",
+ "Next Survivor": "Следующий выживший",
+ "Reload Weapon": "Перезарядить оружие",
+ "Press a key": "Новая клавиша",
+ "Reset Keys": "Сбросить клавиши"
 }

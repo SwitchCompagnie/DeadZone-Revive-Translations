@@ -8457,5 +8457,16 @@
  "All Effects": "すべての効果",
  "Fewer Effects": "効果を減らす",
  "Reduce in Background": "バックグラウンド時は軽減",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "ハードウェアアクセラレーションは対応環境で自動的に有効になります。描画上限は表示のみに影響します。バックグラウンドモードでは描画を15に抑えます。"
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "ハードウェアアクセラレーションは対応環境で自動的に有効になります。描画上限は表示のみに影響します。バックグラウンドモードでは描画を15に抑えます。",
+ "Controls": "操作",
+ "Camera Up": "カメラ上",
+ "Camera Down": "カメラ下",
+ "Camera Left": "カメラ左",
+ "Camera Right": "カメラ右",
+ "Hold Action / Rotate": "アクション長押し / 回転",
+ "Toggle Action Mode": "アクションモード切替",
+ "Next Survivor": "次の生存者",
+ "Reload Weapon": "リロード",
+ "Press a key": "キーを押す",
+ "Reset Keys": "キーをリセット"
 }

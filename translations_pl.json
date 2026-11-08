@@ -8457,5 +8457,16 @@
  "All Effects": "Wszystkie efekty",
  "Fewer Effects": "Mniej efektów",
  "Reduce in Background": "Ogranicz w tle",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Akceleracja sprzętowa włącza się automatycznie, gdy jest obsługiwana. Limit renderowania wpływa tylko na grafikę. Tryb w tle ogranicza renderowanie do 15."
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "Akceleracja sprzętowa włącza się automatycznie, gdy jest obsługiwana. Limit renderowania wpływa tylko na grafikę. Tryb w tle ogranicza renderowanie do 15.",
+ "Controls": "Sterowanie",
+ "Camera Up": "Kamera w górę",
+ "Camera Down": "Kamera w dół",
+ "Camera Left": "Kamera w lewo",
+ "Camera Right": "Kamera w prawo",
+ "Hold Action / Rotate": "Przytrzymaj akcję / Obróć",
+ "Toggle Action Mode": "Przełącz tryb akcji",
+ "Next Survivor": "Następny ocalały",
+ "Reload Weapon": "Przeładuj broń",
+ "Press a key": "Naciśnij klawisz",
+ "Reset Keys": "Resetuj klawisze"
 }

@@ -8457,5 +8457,16 @@
  "All Effects": "모든 효과",
  "Fewer Effects": "효과 줄이기",
  "Reduce in Background": "백그라운드에서 줄이기",
- "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "지원되는 경우 하드웨어 가속은 자동으로 적용됩니다. 렌더링 제한은 화면에만 영향을 줍니다. 백그라운드 모드에서는 렌더링이 15로 줄어듭니다."
+ "Hardware acceleration is automatic when supported. Render limit affects visuals only. Background mode reduces rendering to 15.": "지원되는 경우 하드웨어 가속은 자동으로 적용됩니다. 렌더링 제한은 화면에만 영향을 줍니다. 백그라운드 모드에서는 렌더링이 15로 줄어듭니다.",
+ "Controls": "조작",
+ "Camera Up": "카메라 위",
+ "Camera Down": "카메라 아래",
+ "Camera Left": "카메라 왼쪽",
+ "Camera Right": "카메라 오른쪽",
+ "Hold Action / Rotate": "행동 유지 / 회전",
+ "Toggle Action Mode": "행동 모드 전환",
+ "Next Survivor": "다음 생존자",
+ "Reload Weapon": "무기 재장전",
+ "Press a key": "키를 누르세요",
+ "Reset Keys": "키 초기화"
 }
