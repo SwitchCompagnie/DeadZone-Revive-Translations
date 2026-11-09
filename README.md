@@ -33,13 +33,14 @@ accents, so this list stays Latin-script.
 | `nl` | Nederlands | `translations_nl.json`   |
 | `pl` | Polski     | `translations_pl.json`   |
 | `tr` | Türkçe     | `translations_tr.json`   |
+| `el` | Ελληνικά   | `translations_el.json`   |
 | `ru` | Русский    | `translations_ru.json`   |
 | `zh` | 中文       | `translations_zh.json`   |
 | `ja` | 日本語     | `translations_ja.json`   |
 | `ko` | 한국어     | `translations_ko.json`   |
 
 These are only offered by the web client, which renders text with the
-browser's fonts and so supports any script, Cyrillic and CJK included. They are
+browser's fonts and so supports any script, Greek, Cyrillic and CJK included. They are
 **not** listed in `languages.xml`, so the Flash game and the website /play page
 never use them. The web client downloads `deadnet game/data/lang/<lang>.xml.gz`
 directly.
